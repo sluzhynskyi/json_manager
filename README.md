@@ -35,7 +35,7 @@ https://github.com/wat4era/json_manager.git
 * main() - runs program
 ## Conclusion
 
-This module is useful for json reading. 
+This module is useful for json files reading. 
 
 ## Versioning
 02 15 2019 - demo version
